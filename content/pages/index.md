@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: You Ask We Solve
-    content: >
-      Our goal is bring the experience of internal IT in all day life of 
-      customer
+    content: |
+      Our goal is bring the experience of internal IT in all day life 
     actions:
       - label: Learn More
         url: /features
