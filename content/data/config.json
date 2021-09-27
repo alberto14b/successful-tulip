@@ -2,7 +2,7 @@
     "title": "AskToIT",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "purple",
+    "palette": "orange",
     "header": {
         "logo_img": "/images/AskToIT-5.png",
         "logo_img_alt": "Logo",
