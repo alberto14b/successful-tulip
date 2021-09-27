@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: You Ask We Solve
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Our goal is bring the experience of internal IT in all day life of 
+      customer
     actions:
       - label: Learn More
         url: /features
