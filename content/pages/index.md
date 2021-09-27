@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/8.jpg
     image_alt: App preview
     title: You Ask We Solve
     content: |
