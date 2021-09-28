@@ -23,10 +23,13 @@ sections:
       - title: Basic Assistance
         image: /images/6.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          You can open a ticket with the below button and you will received a
+          solution for free,
+
+
+          It's not realtime ,and the time to have a solution is pretty long 
+
         actions:
           - label: Learn More
             url: /features
